@@ -3,6 +3,7 @@
 This repository is the implementation done by me during my CSE 575: Statistical Machine Learning class's final project. Read the final report of our group <a href='https://github.com/DivijH/image-colorization/blob/main/575_Final_Report.pdf'>here</a>
 
 <img src='https://github.com/DivijH/image-colorization/blob/main/Colorization%20Results%201.png'></img>
+<img src='https://github.com/DivijH/image-colorization/blob/main/Colorization%20Results%202.png'></img>
 
 The datasets used for training the model are CocoStuff10k, Places365 and NCD. The project sheds some light on the performance of GAN models compared to other CNN architectures. Since we limited the resources like training data and time to fully train, for a fairer comparison, the overall quality of the GAN models was almost the same as other models (specially on NCD dataset).
 
